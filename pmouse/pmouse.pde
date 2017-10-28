@@ -12,5 +12,5 @@ void draw() {
   background(204);
   line(mouseX, 250, pmouseX, 350);
   line(250, mouseY, 350, pmouseY);
-  println(mouseX + " : " + pmouseX);
+  // println(mouseX + " : " + pmouseX);
 }
